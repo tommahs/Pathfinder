@@ -1,0 +1,150 @@
+{
+  "Melee": {
+    "Minor": {
+      "Bane": {
+        "Bonus": "+1"
+      },
+      "Defending": {
+        "Bonus": "+1"
+      },
+      "Flaming": {
+        "Bonus": "+1"
+      },
+      "Frost": {
+        "Bonus": "+1"
+      },
+      "Shock": {
+        "Bonus": "+1"
+      },
+      "Ghost Touch": {
+        "Bonus": "+1"
+      },
+      "Keen": {
+        "Bonus": "+1"
+      },
+      "Ki Focus": {
+        "Bonus": "+1"
+      },
+      "Merciful": {
+        "Bonus": "+1"
+      },
+      "Mighty Cleaving": {
+        "Bonus": "+1"
+      },
+      "Spell Storing": {
+        "Bonus": "+1"
+      },
+      "Throwing": {
+        "Bonus": "+1"
+      },
+      "Thundering": {
+        "Bonus": "+1"
+      },
+      "Vicious": {
+        "Bonus": "+1"
+      }
+    },
+    "Medium": {
+      "Anarchic": {
+        "Bonus": "+2"
+      },
+      "Axiomatic": {
+        "Bonus": "+2"
+      },
+      "Disruption": {
+        "Bonus": "+2"
+      },
+      "Flaming Burst": {
+        "Bonus": "+2"
+      },
+      "Icy Burst": {
+        "Bonus": "+2"
+      },
+      "Holy": {
+        "Bonus": "+2"
+      },
+      "Shocking Burst": {
+        "Bonus": "+2"
+      },
+      "Unholy": {
+        "Bonus": "+2"
+      },
+      "Wounding": {
+        "Bonus": "+2"
+      }
+    },
+    "Major": {
+      "Speed": {
+        "Bonus": "+3"
+      },
+      "Brilliant Energy": {
+        "Bonus": "+4"
+      },
+      "Dancing": {
+        "Bonus": "+4"
+      },
+      "Vorpal": {
+        "Bonus": "+5"
+      }
+    }
+  },
+  "Ranged" : {
+    "Minor": {
+      "Bane": {
+        "Bonus": "+1"
+      },
+      "Distance": {
+        "Bonus": "+1"
+      },
+      "Flaming": {
+        "Bonus": "+1"
+      },
+      "Frost": {
+        "Bonus": "+1"
+      },
+      "Merciful": {
+        "Bonus": "+1"
+      },
+      "Shock": {
+        "Bonus": "+1"
+      },
+      "Returning": {
+        "Bonus": "+1"
+      }
+    },
+    "Medium": {
+      "Anarchic": {
+        "Bonus": "+2"
+      },
+      "Axiomatic": {
+        "Bonus": "+2"
+      },
+      "Thundering": {
+        "Bonus": "+2"
+      },
+      "Flaming Burst": {
+        "Bonus": "+2"
+      },
+      "Icy Burst": {
+        "Bonus": "+2"
+      },
+      "Holy": {
+        "Bonus": "+2"
+      },
+      "Shocking Burst": {
+        "Bonus": "+2"
+      },
+      "Unholy": {
+        "Bonus": "+2"
+      }
+    },
+    "Major": {
+      "Speed": {
+        "Bonus": "+3"
+      },
+      "Brilliant Energy": {
+        "Bonus": "+4"
+      }
+    }
+  }
+}
